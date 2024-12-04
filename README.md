@@ -8,6 +8,9 @@ A collection of papers, books, teaching materials and iniatitives on the interes
 ## About NetSAI 
 Slides presenting the initiative are available in the repository. These slides were part of an oral talk for the ["Learning on Graph"](https://sites.google.com/student.unisi.it/log24siena/home-page) meetup in Siena, 2024.
 
+## Network Science Conferences
+NetSci, NetSciX, Conference on Complex Systems (CCS), CompleNet, Complex Networks and their Applications (CNA).
+
 ## Get start with Network Science
 - ["Network Science"](https://networksciencebook.com/) by Albert-László Barabási.
 - ["Networks, Crowds, and Markets: Reasoning About a Highly Connected World"](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg.
