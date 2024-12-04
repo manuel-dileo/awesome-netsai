@@ -2,8 +2,11 @@
 A collection of papers, books, teaching materials and iniatitives on the interesection between AI and Network Science.
 
 ## Events and Initiatives
-- Submission for our Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
+- Submissions for our Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
 - We will host a [special session](https://sites.google.com/view/esann-netsai/home) titled “Network Science meets AI” at the next ESANN conference in April 2025.
+
+## About NetSAI 
+Slides presenting the initiative are available in the repository. These slides were part of an oral talk for the ["Learning on Graph"](https://sites.google.com/student.unisi.it/log24siena/home-page) meetup in Siena, 2024.
 
 ## Get start with Network Science
 - ["Network Science"](https://networksciencebook.com/) by Albert-László Barabási.
