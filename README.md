@@ -1,5 +1,5 @@
 # Awesome "Network Science Meets AI" (NetSAI)
-A collection of papers, books, teaching materials and iniatitives on the interesection between AI and Network Science.
+A collection of papers, books, teaching materials and initiatives on the interesection between AI and Network Science.
 
 ## Events and Initiatives
 - Submissions for our Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
