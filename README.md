@@ -14,10 +14,14 @@ A collection of papers, books, teaching materials, and initiatives on the inters
 ### Network Science helps AI
 - [ArXiv, 2025] **Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs** [paper](https://www.arxiv.org/abs/2502.12352)
 - [ESANN, 2024] **Link prediction heuristics for temporal graph benchmark** [paper](https://doi.org/10.14428/esann/2024.ES2024-141)
+- [ICLR, 2024] **Epitopological learning and Cannistraci-Hebb network shape intelligence brain-inspired theory for ultra-sparse advantage in deep learning** [paper](https://openreview.net/forum?id=iayEcORsGd)
 - [NEURIPS, 2023] **TempME: Towards the Explainability of Temporal Graph Neural Networks via Motif Discovery** [paper](https://openreview.net/forum?id=6OOgw4boZI)
 - [LOG, 2022] **De Bruijn goes Neural: Causality-Aware Graph Neural Networks for Time Series Data on Dynamic Graphs** [paper](https://openreview.net/forum?id=Dbkqs1EhTr)
 
 ### AI helps Network Science
+- [ICML workshop, 2024] **Representation Learning for Frequent Subgraph Mining** [paper](https://arxiv.org/abs/2402.14367)
+- [ICLR, 2024] **Can Graph Neural Networks learn node-level structural features?** [paper](https://openreview.net/forum?id=HRxVPPdyDh)
+- [ICLR, 2021] **Neural Subgraph Matching** [paper](https://openreview.net/forum?id=LMslR3CTzE)
 
 ## About NetSAI 
 The repository contains slides presenting the initiative. These slides were part of an oral talk for the ["Learning on Graph"](https://sites.google.com/student.unisi.it/log24siena/home-page) meetup in Siena, 2024.
