@@ -1,12 +1,17 @@
 # Awesome "Network Science Meets AI" (NetSAI)
-A collection of papers, books, teaching materials and initiatives on the interesection between AI and Network Science.
+A collection of papers, books, teaching materials, and initiatives on the intersection between AI and Network Science.
 
 ## Events and Initiatives
-- Submissions for our Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
-- We will host a [special session](https://sites.google.com/view/esann-netsai/home) titled “Network Science meets AI” at the next ESANN conference in April 2025.
+- Submissions for a Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
+- The Network Science meets AI tour stops in this year's edition of [HONS](https://hons-web.github.io/online/), titled "High-order Network Science meets AI" (HONAI)
+- A [special session](https://sites.google.com/view/esann-netsai/home) titled “Network Science meets AI” will be hosted at the next ESANN conference in April 2025.
+
+## Papers
+### Survey, tutorial, and position papers
+- [ArXiv] **Insights from Network Science can advance Deep Graph Learning** [paper](https://arxiv.org/abs/2502.01177)
 
 ## About NetSAI 
-Slides presenting the initiative are available in the repository. These slides were part of an oral talk for the ["Learning on Graph"](https://sites.google.com/student.unisi.it/log24siena/home-page) meetup in Siena, 2024.
+The repository contains slides presenting the initiative. These slides were part of an oral talk for the ["Learning on Graph"](https://sites.google.com/student.unisi.it/log24siena/home-page) meetup in Siena, 2024.
 
 ## Network Science Conferences
 NetSci, NetSciX, Conference on Complex Systems (CCS), CompleNet, Complex Networks and their Applications (CNA).
