@@ -8,7 +8,9 @@ A collection of papers, books, teaching materials, and initiatives on the inters
 
 ## Papers
 ### Survey, tutorial, and position papers
-- [ArXiv] **Insights from Network Science can advance Deep Graph Learning** [paper](https://arxiv.org/abs/2502.01177)
+- [ArXiv, 2025] **Insights from Network Science can advance Deep Graph Learning** [paper](https://arxiv.org/abs/2502.01177)
+- [ArXiv, 2024] **Artificial Intelligence for Complex Network: Potential, Methodology and Application** [paper](https://arxiv.org/abs/2402.16887)
+
 
 ## About NetSAI 
 The repository contains slides presenting the initiative. These slides were part of an oral talk for the ["Learning on Graph"](https://sites.google.com/student.unisi.it/log24siena/home-page) meetup in Siena, 2024.
