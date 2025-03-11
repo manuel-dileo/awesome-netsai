@@ -11,6 +11,13 @@ A collection of papers, books, teaching materials, and initiatives on the inters
 - [ArXiv, 2025] **Insights from Network Science can advance Deep Graph Learning** [paper](https://arxiv.org/abs/2502.01177)
 - [ArXiv, 2024] **Artificial Intelligence for Complex Network: Potential, Methodology and Application** [paper](https://arxiv.org/abs/2402.16887)
 
+### Network Science helps AI
+- [ArXiv, 2025] **Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs** [paper](https://www.arxiv.org/abs/2502.12352)
+- [ESANN, 2024] **Link prediction heuristics for temporal graph benchmark** [paper](https://doi.org/10.14428/esann/2024.ES2024-141)
+- [NEURIPS, 2023] **TempME: Towards the Explainability of Temporal Graph Neural Networks via Motif Discovery** [paper](https://openreview.net/forum?id=6OOgw4boZI)
+- [LOG, 2022] **De Bruijn goes Neural: Causality-Aware Graph Neural Networks for Time Series Data on Dynamic Graphs** [paper](https://openreview.net/forum?id=Dbkqs1EhTr)
+
+### AI helps Network Science
 
 ## About NetSAI 
 The repository contains slides presenting the initiative. These slides were part of an oral talk for the ["Learning on Graph"](https://sites.google.com/student.unisi.it/log24siena/home-page) meetup in Siena, 2024.
