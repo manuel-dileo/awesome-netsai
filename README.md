@@ -13,6 +13,7 @@ A collection of papers, books, teaching materials, and initiatives on the inters
 
 ### Network Science helps AI
 - [ArXiv, 2025] **Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs** [paper](https://www.arxiv.org/abs/2502.12352)
+- [ArXiv, 2025] **Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality** [paper](https://arxiv.org/abs/2501.03113)
 - [ESANN, 2024] **Link prediction heuristics for temporal graph benchmark** [paper](https://doi.org/10.14428/esann/2024.ES2024-141)
 - [ICLR, 2024] **Epitopological learning and Cannistraci-Hebb network shape intelligence brain-inspired theory for ultra-sparse advantage in deep learning** [paper](https://openreview.net/forum?id=iayEcORsGd)
 - [NEURIPS, 2023] **TempME: Towards the Explainability of Temporal Graph Neural Networks via Motif Discovery** [paper](https://openreview.net/forum?id=6OOgw4boZI)
