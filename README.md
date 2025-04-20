@@ -1,5 +1,6 @@
 # Awesome "Network Science Meets AI" (NetSAI)
-A collection of papers, books, teaching materials, and initiatives on the intersection between AI and Network Science. 
+A collection of papers, books, teaching materials, and initiatives on the intersection between AI and Network Science.  
+
 Feel free to contribute by making a pull request or emailing me!
 
 ## Events and Initiatives
