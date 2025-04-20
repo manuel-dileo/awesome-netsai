@@ -42,4 +42,5 @@ NetSci, NetSciX, Conference on Complex Systems (CCS), CompleNet, Complex Network
 ## Get start with Graph Machine Learning
 - ["Graph Representation Learning Book"](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton.
 - ["Stanford CS224W: Machine Learning with Graphs"](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) by Jure Leskovec.
+- [The graph machine learning course by Xavier Bresson](https://github.com/xbresson/GML2023)
   
