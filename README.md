@@ -8,10 +8,12 @@ A collection of papers, books, teaching materials, and initiatives on the inters
 
 ## Papers
 ### Survey, tutorial, and position papers
+- [ESANN, 2025] **Network Science Meets AI: A Converging Frontier** [paper](https://doi.org/10.14428/esann/2025.ES2025-28)
 - [ArXiv, 2025] **Insights from Network Science can advance Deep Graph Learning** [paper](https://arxiv.org/abs/2502.01177)
 - [ArXiv, 2024] **Artificial Intelligence for Complex Network: Potential, Methodology and Application** [paper](https://arxiv.org/abs/2402.16887)
 
 ### Network Science helps AI
+- [ESANN 2025] **Hyperbolic representation learning in multi-layer tissue networks** [paper](https://doi.org/10.14428/esann/2025.ES2025-21)
 - [ArXiv, 2025] **Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs** [paper](https://www.arxiv.org/abs/2502.12352)
 - [ArXiv, 2025] **Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality** [paper](https://arxiv.org/abs/2501.03113)
 - [ESANN, 2024] **Link prediction heuristics for temporal graph benchmark** [paper](https://doi.org/10.14428/esann/2024.ES2024-141)
@@ -20,6 +22,8 @@ A collection of papers, books, teaching materials, and initiatives on the inters
 - [LOG, 2022] **De Bruijn goes Neural: Causality-Aware Graph Neural Networks for Time Series Data on Dynamic Graphs** [paper](https://openreview.net/forum?id=Dbkqs1EhTr)
 
 ### AI helps Network Science
+- [ESANN 2025] **Enhancing neural link predictors for temporal knowledge graphs with temporal regularisers** [paper](https://doi.org/10.14428/esann/2025.ES2025-87)
+- [ESANN 2025] **Learning of Probability Estimates for System and Network Reliability Analysis by Means of Matrix Learning Vector Quantization** [paper](https://doi.org/10.14428/esann/2025.ES2025-67)
 - [ICML workshop, 2024] **Representation Learning for Frequent Subgraph Mining** [paper](https://arxiv.org/abs/2402.14367)
 - [ICLR, 2024] **Can Graph Neural Networks learn node-level structural features?** [paper](https://openreview.net/forum?id=HRxVPPdyDh)
 - [ICLR, 2021] **Neural Subgraph Matching** [paper](https://openreview.net/forum?id=LMslR3CTzE)
