@@ -4,7 +4,7 @@ A collection of papers, books, teaching materials, and initiatives on the inters
 Feel free to contribute by making a pull request or emailing me!
 
 ## Events and Initiatives
-- Submissions for a Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of June 2025.
+- Submissions for a Special Issue ["Bridging Network Science and AI"](https://link.springer.com/collections/hafcebgfci) on Applied Network Science by Springer are open! Submit your work by the end of December 2025.
 - The Network Science meets AI tour stops in this year's edition of [HONS](https://hons-web.github.io/online/), titled "High-order Network Science meets AI" (HONAI)
 - A [special session](https://sites.google.com/view/esann-netsai/home) titled “Network Science meets AI” will be hosted at the next ESANN conference in April 2025.
 
